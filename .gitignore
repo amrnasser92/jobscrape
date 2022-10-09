@@ -1,5 +1,5 @@
 *.pyc
 *.pickle
 *.csv
-test.py
+*test.py
 *.ipynb*
