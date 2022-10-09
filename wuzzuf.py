@@ -124,4 +124,4 @@ for page in range(97,8196+2):
         ids.append(job_id['id'])
     print('Collected :'+str(len(ids))+ ' job ids')   
 
-len(ids)    
+

@@ -1,4 +1,3 @@
-from typing import List
 import requests
 import json
 from requests.adapters import Retry,HTTPAdapter
@@ -130,7 +129,3 @@ for key in keys:
 
     except:
         jobs[job['id']]['compayn_id'] = None 
-
-len(jobs)
-
-len(jobs_df)
